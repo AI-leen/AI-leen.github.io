@@ -1,0 +1,8 @@
+#backvid {
+   position: static;
+   width: 100vw;
+   height: 100vh;
+}
+h1 {
+    top: 0px;
+}
